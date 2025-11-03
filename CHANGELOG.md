@@ -1,5 +1,9 @@
 # Changelog
 
+## \[0.8.0]
+
+- [`d706220`](https://www.github.com/tauri-apps/global-hotkey/commit/d70622077a2acef52c2359b8b65218523be72c26) ([#165](https://www.github.com/tauri-apps/global-hotkey/pull/165) by [@SergioRibera](https://www.github.com/tauri-apps/global-hotkey/../../SergioRibera)) Increased MSRV to `1.77`.
+
 ## \[0.7.0]
 
 - [`77dbe4e`](https://www.github.com/tauri-apps/global-hotkey/commit/77dbe4ebe5911f9ee41f3264ecb11295d7e6abe7) ([#150](https://www.github.com/tauri-apps/global-hotkey/pull/150) by [@Exidex](https://www.github.com/tauri-apps/global-hotkey/../../Exidex)) Use `x11rb` crate instead of `x11-dl` for linux (x11) backend.
